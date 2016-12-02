@@ -1,0 +1,29 @@
+typography_spectrum: 0.17994799255393445
+color:
+  brandStrength: 0.5284990884829313
+  lightness: 0.6910180740524083
+  saturation: 0.04706679005175829
+  rhythmicContrast: 0.6477558475453407
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+github: true
+opengraph:
+  type: Belle Leclair is on Facebook
+  appId: 'https://www.facebook.com/Belle-Leclair-278071642595019/'
+layout_spectrum: 0.31221702275797725
+author:
+  name: QueenBee Emilee
+  email: emileeleclair@gmail.com
+  url: 'http://www.bellaleclair/queenbeebio'
+name: Belle Leclair
+title: 'Belle Leclair '
+content: []
+description: 'Be Dazzling, Be Beautiful & Be Brave - Bee Yourself! '
+purpose:
+  - type: contact
+    url: 'tel:0438768888'
+    label: Buzz Queenbee
